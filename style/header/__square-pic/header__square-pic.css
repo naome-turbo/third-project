@@ -1,0 +1,22 @@
+.header__square-pic {
+  width: 568px;
+  height: 568px;
+  background: #2f80ed;
+  position: absolute;
+  right: 0px;
+  top: 64px;
+  /* animation: rotate 20s linear infinite; */
+}
+
+/* div {
+  background: red;
+  width: 100px;
+  height: 100px;
+
+} */
+
+/* @keyframes rotate {
+  from {
+    transform: rotate(-360deg);
+  }
+} */
